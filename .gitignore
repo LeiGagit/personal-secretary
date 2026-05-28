@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian (local config only, not part of the skill)
+.obsidian/
+
+# User data (should never be in the skill repo)
+0-Inbox/
+1-Daily/
+2-Tasks/
+3-Projects/
+4-CRM/
+5-Decisions/
+6-Reviews/
+7-Planning/
+8-Habits/
+99-Archive/
+Dashboard.md
+profile.md
+
+# Local config (user-specific, not for sharing)
+personal-secretary.json
