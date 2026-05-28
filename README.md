@@ -19,7 +19,7 @@ A comprehensive personal life management skill for Claude Code, serving as your 
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/YOUR_USERNAME/personal-secretary.git ~/.claude/skills/personal-secretary
+git clone https://github.com/LeiGagit/personal-secretary.git ~/.claude/skills/personal-secretary
 ```
 
 Or manually copy the `personal-secretary/` directory into `~/.claude/skills/`.
